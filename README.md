@@ -53,3 +53,6 @@ For a detailed walkthrough of the project, watch the video below:
 For any inquiries, feel free to contact me at:
 - **Email**: mshahinalam01@gmail.com
 
+## Author
+Md. Shahin Alam
+https://github.com/shahinalam10
